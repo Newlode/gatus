@@ -1,4 +1,4 @@
-module github.com/newlode/gatus/v5
+module github.com/TwiN/gatus/v5
 
 go 1.20
 
